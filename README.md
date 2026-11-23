@@ -4,6 +4,7 @@ Aplikasi game edukasi berbasis Android yang menggabungkan dua mode permainan int
 
 ## 📲 Unduh Aplikasi (Android APK)
 * **File Instalasi (.apk):** [Unduh Cat & Fish Adventure v1.0.0 di GitHub Releases](https://github.com)
+* **Video Demo Gameplay :** [Tonton Demo Aplikasi di Sini](https://youtu.be/AJK7pC_x5xs)
 
 ## Fitur Utama
 * **Mode Augmented Reality (AR) Game:** Memanfaatkan kamera perangkat Android untuk memindai *marker* dan memunculkan karakter 3D kucing serta ikan secara *real-time*. Pemain mengendalikan karakter kucing untuk menangkap ikan dan mengumpulkan skor tertinggi.
@@ -40,3 +41,8 @@ Aplikasi game edukasi berbasis Android yang menggabungkan dua mode permainan int
 * `Assets/Prefabs` - Komponen objek 3D dan kartu permainan siap pakai.
 * `Assets/UI` - Tata letak antarmuka pengguna yang responsif untuk berbagai ukuran layar Android.
 * `Packages` & `ProjectSettings` - Konfigurasi dependensi dan pengaturan *build* Android.
+
+## 👩‍💻 Tim Pengembang
+Dikembangkan secara kolaboratif oleh mahasiswa Program Studi Sistem Informasi, Universitas Darwan Ali:
+* **Nasywa Salsabiila Romadhona**
+* **Lailatul Rahmadani**
