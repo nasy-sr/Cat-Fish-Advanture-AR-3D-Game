@@ -19,8 +19,8 @@ Aplikasi game edukasi berbasis Android yang menggabungkan dua mode permainan int
 * **Platform Target:** Android (`.apk`)
 * **Teknologi Inti:** Marker-based Augmented Reality, 3D Object Interaction, UI Responsive Layout, dan Black Box Testing.
 
-## 📸 Marker AR & Tampilan Aplikasi
-*(Catatan: Unggah gambar marker AR dan screenshot dari Gambar 4 laporanmu ke folder `docs/` di GitHub, lalu tampilkan di sini agar rekruter bisa langsung memindai marker-nya saat mencoba APK!)*
+## 📸 Tampilan Aplikasi (UI & Gameplay)
+<img width="100%" alt="Tampilan Aplikasi Cat & Fish Adventure" src="https://github.com/user-attachments/assets/83fdeef8-0bc0-4da2-b310-05608fcc999d" />
 
 ## 📂 Struktur Repositori
 * `Assets/Scripts` — Logika permainan C# (kontrol karakter AR, pengacakan kartu, sistem skor, timer, dan manajemen UI).
