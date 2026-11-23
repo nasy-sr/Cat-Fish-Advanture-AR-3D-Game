@@ -35,8 +35,8 @@ Aplikasi game edukasi berbasis Android yang menggabungkan dua mode permainan int
 </p>
 
 ## 📂 Struktur Repositori
-* `Assets/Scripts` — Logika permainan C# (kontrol karakter AR, pengacakan kartu, sistem skor, timer, dan manajemen UI).
-* `Assets/Scenes` — Susunan *scene* aplikasi (*Splash Screen*, *Main Menu*, *AR Mode*, dan *Memory Card Mode*).
-* `Assets/Prefabs` — Komponen objek 3D dan kartu permainan siap pakai.
-* `Assets/UI` — Tata letak antarmuka pengguna yang responsif untuk berbagai ukuran layar Android.
-* `Packages` & `ProjectSettings` — Konfigurasi dependensi dan pengaturan *build* Android.
+* `Assets/Scripts` - Logika permainan C# (kontrol karakter AR, pengacakan kartu, sistem skor, timer, dan manajemen UI).
+* `Assets/Scenes` - Susunan *scene* aplikasi (*Splash Screen*, *Main Menu*, *AR Mode*, dan *Memory Card Mode*).
+* `Assets/Prefabs` - Komponen objek 3D dan kartu permainan siap pakai.
+* `Assets/UI` - Tata letak antarmuka pengguna yang responsif untuk berbagai ukuran layar Android.
+* `Packages` & `ProjectSettings` - Konfigurasi dependensi dan pengaturan *build* Android.
