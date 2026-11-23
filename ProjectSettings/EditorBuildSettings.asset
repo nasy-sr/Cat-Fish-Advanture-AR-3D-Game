@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: 110ccdd53ecb34c41b79bad724c5469d
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4bf23b795b8d1c44f8d17a8f8f221d97
+  - enabled: 1
+    path: Assets/Scenes/ARGame.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MemoryCardGame.unity
+    guid: 90643569154fe8a46b0d9638d3de1955
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: ad4146872fbb81a4996af96a7d7c7791
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 822a69a13de784c498739447bf85d988
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: cb76af16b9e2e624e94a53cd64c00f72, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9fdea34344922174182b4f9334fbaee3, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ef0e5dc3f3ba9584c919a370db9c06fd, type: 2}
