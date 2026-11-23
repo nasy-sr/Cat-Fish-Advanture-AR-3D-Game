@@ -1,11 +1,11 @@
-# Cat & Fish Adventure — Android Educational & AR Game
+# Cat & Fish Adventure - Android Educational & AR Game
 
-Aplikasi game edukasi berbasis Android yang menggabungkan dua mode permainan interaktif—**Augmented Reality (AR) Game** dan **Memory Card Game**—untuk melatih daya ingat, konsentrasi, dan pengenalan pola pengguna. Dikembangkan menggunakan **Unity Engine** dan bahasa pemrograman **C#**.
+Aplikasi game edukasi berbasis Android yang menggabungkan dua mode permainan interaktif—**Augmented Reality (AR) Game** dan **Memory Card Game** untuk melatih daya ingat, konsentrasi, dan pengenalan pola pengguna. Dikembangkan menggunakan **Unity Engine** dan bahasa pemrograman **C#**.
 
 ## 📲 Unduh Aplikasi (Android APK)
 * **File Instalasi (.apk):** [Unduh Cat & Fish Adventure v1.0.0 di GitHub Releases](https://github.com)
 
-## ✨ Fitur Utama
+## Fitur Utama
 * **Mode Augmented Reality (AR) Game:** Memanfaatkan kamera perangkat Android untuk memindai *marker* dan memunculkan karakter 3D kucing serta ikan secara *real-time*. Pemain mengendalikan karakter kucing untuk menangkap ikan dan mengumpulkan skor tertinggi.
 * **Mode Memory Card Game:** Permainan mencocokkan pasangan kartu bergambar dengan sistem pengacakan posisi kartu dan penghitung waktu (*timer*). Tersedia dalam tiga tingkat kesulitan:
   * **Easy:** 12 kartu
